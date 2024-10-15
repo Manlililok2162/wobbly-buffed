@@ -7,4 +7,9 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Introduction-and-Game-Design.md">
+        <toc-element topic="Introduction-to-Game-Development.md"/>
+        <toc-element topic="Game-Design.md"/>
+        <toc-element topic="Game-Design-Job-Roles.md"/>
+    </toc-element>
 </instance-profile>
