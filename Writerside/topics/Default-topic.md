@@ -19,11 +19,11 @@ Gain foundational knowledge in the process of video game development:
     2. Game Design
     3. Game Design Job Roles
 2. Gameplay Development
-    1. Gameplay Development
+    1. Gameplay Development: Lesson
     2. Gameplay Development Job Roles
 3. Game Assets
-    1. Game Assets
+    1. Game Assets: Lesson
     2. Game Asset Job Roles
 4. Game Development Tools
-    1. Game Development Tools
+    1. Game Development Tools: Lesson
     2. Game Development Tools Job Roles
