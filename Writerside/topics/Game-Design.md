@@ -236,5 +236,8 @@ process organized.
 <seealso>
 <category ref="introduction-and-game-design">
 <a href="https://www.codecademy.com/resources/docs/general/software-development-life-cycle">General | Software Development Life Cycle | Codecademy</a>
+<a href="https://gamedevbeginner.com/how-to-write-a-game-design-document-with-examples/">How to write a game design document (with examples)</a>
+<a href="https://en.wikipedia.org/wiki/Game_design_document">Game design document - Wikipedia</a>
+<a href="https://www.geeksforgeeks.org/game-design/">Game Design - GeeksforGeeks</a>
 </category>
 </seealso>
