@@ -20,4 +20,8 @@
         <toc-element topic="Game-Assets-Lesson.md"/>
         <toc-element topic="Game-Asset-Job-Roles.md"/>
     </toc-element>
+    <toc-element topic="Game-Development-Tools.md">
+        <toc-element topic="Game-Development-Tools-Lesson.md"/>
+        <toc-element topic="Game-Development-Tools-Job-Roles.md"/>
+    </toc-element>
 </instance-profile>
