@@ -4,4 +4,5 @@
 <categories>
     <category id="introduction-and-game-design" name="Introduction and Game Design" order="1"/>
     <category id="gameplay-development" name="Gameplay Development" order="2"/>
+    <category id="game-assets" name="Game Assets" order="3"/>
 </categories>
