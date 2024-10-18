@@ -1,5 +1,7 @@
 # Game Assets: Lesson
 
+<show-structure for="chapter,procedure" depth="2"/>
+
 ## Introduction to Assets
 
 Asset
@@ -19,12 +21,21 @@ This lesson discusses the following:
 
 Study the following character assets from popular video games:
 
-* Pac Man. Namco, 1980.
-    * ![Pac Man](https://static-assets.codecademy.com/Courses/intro-to-game-dev/assets/intro/assets/pm.gif)
-* Mortal Kombat XI, Warner Bros. Interactive Entertainment, 2019
-    * ![Moral Kombat XI](https://static-assets.codecademy.com/Courses/intro-to-game-dev/assets/intro/assets/mk.gif)
-* The Sims 4. Electronic Arts, 2014
-    * ![The Sims 4](https://static-assets.codecademy.com/Courses/intro-to-game-dev/assets/intro/assets/sm.gif)
+<table>
+<tr><td>Game</td><td>Image</td></tr>
+<tr>
+<td>Pac Man. Namco, 1980.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/assets/intro/assets/pm.gif" alt="Pac Man" /></td>
+</tr>
+<tr>
+<td>Mortal Kombat XI, Warner Bros. Interactive Entertainment, 2019</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/assets/intro/assets/mk.gif" alt="Moral Kombat XI" /></td>
+</tr>
+<tr>
+<td>The Sims 4. Electronic Arts, 2014</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/assets/intro/assets/sm.gif" alt="The Sims 4" /></td>
+</tr>
+</table>
 
 ## History of Game Assets
 
@@ -41,7 +52,7 @@ colors, and recognizable sounds, such as those from Pac-Man or Super Mario.
 Game assets have evolved from 2D to 3D as developers allocate more time and budget to their creation. High-quality
 assets not only immerse players but also serve as vital marketing tools for promoting video games.
 
-## Exercise: History of Game Assets
+### Exercise: History of Game Assets
 
 Study the difference between the old and newer Lara Croft character.
 
@@ -100,7 +111,8 @@ Game level
 Environment assets include all details at a level that advances the storyline and immerses the player. These assets
 encompass both foreground and background components.
 
-Foreground objects interact with the player, while background objects primarily enhance the environment's appearance.
+**Foreground objects** interact with the player, while **background objects** primarily enhance the environment's
+appearance.
 
 Designers first sketch environment assets by researching and collecting references for all scene components.
 
@@ -121,21 +133,22 @@ Creating a scene involves multiple assets that work together seamlessly.
 
 In Codey's Adventure, use the following controls to customize the look of the game:
 
-* The "Background Color" control allows you to choose the background color.
-* The "Platform Material" dropdown lets you change the platform's texture.
-* The "Floor Material" dropdown lets you change the floor's texture.
+* The "**Background Color**" control allows you to choose the background color.
+* The "**Platform Material**" dropdown lets you change the platform's texture.
+* The "**Floor Material**" dropdown lets you change the floor's texture.
 
 ## Creating Sound Effect Assets
 
 Sound effects are essential in video games, enhancing player engagement and evoking specific moods based on the scene.
-Sound effects may serve the following purposes:
+They may serve the following purposes:
 
-* Convey plot or environment information: For example, they help indicate an abandoned environment.
-* Provide feedback on player actions: A chime sound effect can play when players collect items, offering positive
+* **Convey plot or environment information:** For example, they help indicate an abandoned environment.
+* **Provide feedback on player actions:** A chime sound effect can play when players collect items, offering positive
   reinforcement for their actions.
-* Create emotional impact: A loud bang can alert players to potential threats, invoking fear or excitement to drive
+* **Create emotional impact:** A loud bang can alert players to potential threats, invoking fear or excitement to drive
   gameplay.
-  Types of sound effects in a game include:
+
+Types of sound effects in a game include:
 
 * **Narration:** Dialogues between characters or narrated text that provide additional information, such as a character
   saying, "It's locked!" when trying to open a door.
@@ -160,17 +173,24 @@ during gameplay.
 
 Several types of musical blocks can vary in length and connect at different points:
 
-* **Intro:** Sets the mood for the game, level, or scene.
-    * E.g., when you start a new game, when the title or opening credits show, or when the characters are introduced.
-* **Loop:** Repeats a section of music until an event occurs, such as a character dying or finding an object.
-    * E.g., the player navigates through the level
-* **Transitional:** Connects scenes seamlessly, helping the game flow from interactive play to cutscenes.
-    * E.g., task completion triggers a non-playable cutscene
-* **Stinger:** Marks a momentous event, typically lasting a few seconds, like intense music when a character loses grip
-  while climbing. Location-specific stingers may play when a character enters a new area.
-    * E.g., player slips off a ledge
-* **Tag:** Signals at the end of a scene or level, indicating to players that they have completed it.
-    * E.g., player defeats all zombies in a room, transitioning from high-intensity loop music to a normal-paced one
+<table style="both">
+<tr><td>Name</td><td>Description</td><td>Example</td></tr>
+<tr>
+<td>Intro</td>
+<td>sets the mood for the game, level, or scene.</td><td>when you start a new game, when the title or opening credits show, or when the characters are introduced.</td></tr>
+<tr>
+<td>Loop</td>
+<td>repeats a section of music until an event occurs, such as a character dying or finding an object.</td><td>the player navigates through the level</td></tr>
+<tr>
+<td>Transitional</td>
+<td>connects scenes seamlessly, helping the game flow from interactive play to cutscenes.</td><td>task completion triggers a non-playable cutscene</td></tr>
+<tr>
+<td>Stinger</td>
+<td>marks a momentous event, typically lasting a few seconds, like intense music when a character loses grip</td><td>player slips off a ledge</td></tr>
+<tr>
+<td>Tag</td>
+<td>signals at the end of a scene or level, indicating to players that they have completed it.</td><td>player defeats all zombies in a room, transitioning from high-intensity loop music to a normal-paced one</td></tr>
+</table>
 
 All sound clips and tracks should complement each other to create a cohesive soundtrack.
 
@@ -178,9 +198,9 @@ All sound clips and tracks should complement each other to create a cohesive sou
 
 You have learned the following:
 
-* The importance of game asset creation
-* The history and progression of game assets
-* The process for creating and modeling assets
-* The visual asset creation process for characters and environments
-* The music asset creation process for sound effects and soundtrack compositions
+* The importance of **game asset creation**
+* The **history** and progression of game assets
+* The process for **creating and modeling assets**
+* The visual asset creation process for **characters** and **environments**
+* The music asset creation process for **sound effects** and **soundtrack compositions**
 * How we use these assets in games and influence player gameplay or player emotional response

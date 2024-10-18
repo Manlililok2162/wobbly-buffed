@@ -1,5 +1,7 @@
 # Game Development Tools: Lesson
 
+<show-structure for="chapter,procedure" depth="2"/>
+
 ## Introduction
 
 Without tools, modeling characters and coding mechanics would be tedious, making simple projects take months or years to
@@ -57,29 +59,62 @@ of Lua for creating games with a game engine, which we will explore in the next 
 
 ### Exercise: Programming Languages
 
-Review the programming languages introduced:
+Review the programming languages introduced in the table below:
 
-* C++
-    * A standard for game development
-    * Best performance
-    * Close proximity to hardware
-    * Challenging but provides most flexibility and control
-* C#
-    * Designed by Microsoft
-    * Best for Windows and Xbox
-    * Tools make it cross-platform
-* Java
-    * Object-oriented language
-    * Runs on a virtual machine
-    * Makes games easy to scale and distribute
-* HTLML - JavaScript
-    * Run within web browsers
-    * Create interactive online games
-    * Most accessible
-* Lua
-    * Easy to integrate into other languages
-    * Lightweight
-    * Runs on a virtual machine
+<table style="both">
+<tr><td>Programming Language</td><td>Description</td></tr>
+<tr>
+<td>C++</td>
+<td>
+
+* A standard for game development
+* Best performance
+* Close proximity to hardware
+* Challenging but provides most flexibility and control
+
+</td>
+</tr>
+<tr>
+<td>C#</td>
+<td>
+
+* Designed by Microsoft
+* Best for Windows and Xbox
+* Tools make it cross-platform
+
+</td>
+</tr>
+<tr>
+<td>Java</td>
+<td>
+
+* Object-oriented language
+* Runs on a virtual machine
+* Makes games easy to scale and distribute
+
+</td>
+</tr>
+<tr>
+<td>HTML - JavaScript</td>
+<td>
+
+* Run within web browsers
+* Create interactive online games
+* Most accessible
+
+</td>
+</tr>
+<tr>
+<td>Lua</td>
+<td>
+
+* Easy to integrate into other languages
+* Lightweight
+* Runs on a virtual machine
+
+</td>
+</tr>
+</table>
 
 ## What is a Game Engine?
 
@@ -103,7 +138,7 @@ coding physics or managing memory. Some engines even allow for easy porting of g
 
 ### Unity
 
-Unity is one of the most popular game engines.
+[Unity](https://unity.com/) is one of the most popular game engines.
 
 * Supports 2D and 3D games on over 25 platforms, including AR and VR.
 * Uses C#.
@@ -116,7 +151,8 @@ Unity is one of the most popular game engines.
 
 ### Unreal Engine
 
-Unreal Engine, developed by Epic Games (creator of "Fortnite"), powers many popular games.
+[Unreal Engine](https://www.unrealengine.com/), developed by Epic Games (creator of "Fortnite"), powers many popular
+games.
 
 * Provides extensive tools for developers to realize their creative vision.
 * Features high-end graphics with advanced rendering and lighting engines.
@@ -127,9 +163,9 @@ Unreal Engine, developed by Epic Games (creator of "Fortnite"), powers many popu
 
 However, its powerful tools may not suit small teams or solo developers, and it is better for 3D than 2D games.
 
-### GoDot
+### Godot
 
-GoDot has gained popularity for its simplicity and free commercial license.
+[Godot](https://godotengine.org/) has gained popularity for its simplicity and free commercial license.
 
 * Supports both 2D and 3D game development.
 * Uses GDScript by default, a Python-like scripting language
@@ -215,19 +251,40 @@ asset, including sound effects, ambient sounds, Foley, background music, and dia
 
 ### Exercise: Asset Tools
 
-Review the asset tools covered:
+Review the asset tools covered in the table below:
 
-* Blender
-    * 3D creation software
-    * Capable of modeling, rigging, animation, simulation, and rendering
-    * Offers Python API for running custom scripts
-* Character Creator
-    * Create customizable and highly-realistic characters
-    * Tweak attributes like age, weight, skin, hair, teeth
-    * Offers market with existing assets
-* Pro Tools
-    * Design and edit sound effects
-    * Create audio assets like ambient sound, foley, background music, and dialogue
+<table style="both">
+<tr><td>Asset Tool</td><td>Description</td></tr>
+<tr>
+<td>Blender</td>
+<td>
+
+* 3D creation software
+* Capable of modeling, rigging, animation, simulation, and rendering
+* Offers Python API for running custom scripts
+
+</td>
+</tr>
+<tr>
+<td>Character Creator</td>
+<td>
+
+* Create customizable and highly-realistic characters
+* Tweak attributes like age, weight, skin, hair, teeth
+* Offers market with existing assets
+
+</td>
+</tr>
+<tr>
+<td>Pro Tools</td>
+<td>
+
+* Design and edit sound effects
+* Create audio assets like ambient sound, foley, background music, and dialogue
+
+</td>
+</tr>
+</table>
 
 ## Distributing and Publishing
 

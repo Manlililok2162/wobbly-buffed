@@ -1,5 +1,7 @@
 # Gameplay Development: Lesson
 
+<show-structure for="chapter,procedure" depth="2"/>
+
 ## Introduction
 
 After designing the game, we ought to make fundamental decisions to realize this vision. But before that, you must learn
