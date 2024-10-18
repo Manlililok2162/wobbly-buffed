@@ -52,23 +52,46 @@ with narratives changing according to player choices.
 
 ### Exercise: Gameplay
 
-Study the different game types below:
+Study the different game types in the table below:
 
-* Cooperative
-    * Players cooperate as teammates.
-    * They fight against one or more NPC characters.
-* Asymmetric
-    * Two or more groups exist in a multiplayer game.
-    * Gameplay mechanics differ with each group.
-    * Example: survival games where players control the monsters.
-* Nonlinear
-    * Players choose their action or path.
-    * Journey branches out.
-    * Example: open-world games or MMORPGs.
-* Emergent
-    * Game mechanics depend on player actions.
-    * Simple decisions lead to complex outcomes.
-    * Example: narrative-driven games with multiple endings.
+<table style="both">
+<tr><td>Gameplay Type</td><td>Description</td></tr>
+<tr><td>Cooperative</td>
+<td>
+
+* Players cooperate as teammates.
+* They fight against one or more NPC characters.
+
+</td>
+</tr>
+<tr><td>Asymmetric</td>
+<td>
+
+* Two or more groups exist in a multiplayer game.
+* Gameplay mechanics differ with each group.
+* Example: survival games where players control the monsters.
+
+</td>
+</tr>
+<tr><td>Nonlinear</td>
+<td>
+
+* Players choose their action or path.
+* Journey branches out.
+* Example: open-world games or MMORPGs.
+
+</td>
+</tr>
+<tr><td>Emergent</td>
+<td>
+
+* Game mechanics depend on player actions.
+* Simple decisions lead to complex outcomes.
+* Example: narrative-driven games with multiple endings.
+
+</td>
+</tr>
+</table>
 
 ## Mechanics
 
@@ -80,7 +103,7 @@ Mechanics
 Gameplay
 : how the players experience the game
 
-Mechanics act in engineering, while gameplay acts in design.
+In a way, **mechanics** act in _engineering_, while **gameplay** acts in _design_.
 
 Fundamental game mechanics may include the following:
 
@@ -112,13 +135,14 @@ laundry, playing video games).
 
 Video games commonly use AI to control NPC behavior to increase game responsiveness and adaptiveness.
 
-AI also powers decision-making of NPCs, resulting in more interactive and immersive gaming experiences..
+AI also powers decision-making of NPCs, resulting in more interactive and immersive gaming experiences.
 
-Basic video game AI follows this simple three-step cycle:
-
-1. Sense: observe the surroundings
-2. Think: make a decision
-3. Act: carry out the decision
+<procedure title="3-Step Cycle">
+<p>Basic video game AI follows this simple three-step cycle:</p>
+<step><control>Sense:</control> observe the surroundings</step>
+<step><control>Think:</control> make a decision</step>
+<step><control>Act:</control> carry out the decision</step>
+</procedure>
 
 Examples:
 
@@ -134,12 +158,12 @@ With that, AI enables complex behaviors automatically to save time and cut costs
 
 In Codey's Adventure, change the enemy behavior using the following controls:
 
-* The "Enemy Walk Speed" slider controls how fast the enemy moves when it has not detected the player character.
-* The "Enemy Sprint Speed" slider controls how fast the enemy moves when it has detected the player character.
-* The "Show Sense Radius" checkbox toggles the visibility of the enemy's red sense radius.
-* The "Enemy Sense Radius" slider controls the size of the sense radius of all enemies.
-* The "Enemy Idle Behavior" dropdown selects what the enemies do when they have not detected Codey.
-* The "Enemy Sense Behavior" dropdown selects what the enemies do when they have detected Codey.
+* The "**Enemy Walk Speed**" slider controls how fast the enemy moves when it has not detected the player character.
+* The "**Enemy Sprint Speed**" slider controls how fast the enemy moves when it has detected the player character.
+* The "**Show Sense Radius**" checkbox toggles the visibility of the enemy's red sense radius.
+* The "**Enemy Sense Radius**" slider controls the size of the sense radius of all enemies.
+* The "**Enemy Idle Behavior**" dropdown selects what the enemies do when they have not detected Codey.
+* The "**Enemy Sense Behavior**" dropdown selects what the enemies do when they have detected Codey.
 
 ## User Experience (UX)
 
@@ -150,67 +174,72 @@ User experience (UX)
 UX encompasses human perception, attention, and memory. The director of UX at Epic Games, Celia Hodent, lists **seven
 usability heuristics** game designers should follow:
 
-1. Signs and feedback: signs refer to info that alerts players of possible or future scenarios, while feedback (e.g.,
-   visual, audio, haptic) refers to responses to actions.
-2. Clarity: Make visible symbols and text legible and perceived as intended.
-3. Form follows function: The object form should give info about its function.
-4. Consistency: Make controls, signs, feedback, and UI as consistent as possible.
-5. Minimum workload: Reduce the memory (RAM) burden.
-6. Error prevention or recovery: Help players prevent or quickly recover from errors.
-7. Flexibility: Let players customize their gaming experience.
+1. **Signs and feedback:** signs refer to info that alerts players of possible or future scenarios, while feedback (
+   e.g., visual, audio, haptic) refers to responses to actions.
+2. **Clarity:** Make visible symbols and text legible and perceived as intended.
+3. **Form follows function:** The object form should give info about its function.
+4. **Consistency:** Make controls, signs, feedback, and UI as consistent as possible.
+5. **Minimum workload:** Reduce the memory (RAM) burden.
+6. **Error prevention or recovery:** Help players prevent or quickly recover from errors.
+7. **Flexibility:** Let players customize their gaming experience.
 
 While some players can tolerate poor graphics or stories, poor UX frustrates everyone leading to uninstalls due to
 unintuitive interfaces and improper responsive interactions.
 
-Good UX practices include the following:
+Good UX practices include the following in the table below:
 
-* ![Mobs turn red when hit in Minecraft](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/mc.png)
-
-  Color Indicators: These signal different scenarios, with red indicating immediate attention and green representing
-  player health.
-* ![Katana Zero released in 2019 by Devolver Digital](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/kz.png)
-
-  Subtitles: In text-based games, these are color-coded by character, with certain words animated to convey emotion.
-* ![Batman: Arkham Origin released in 2013 byWarner Bros. Interactive Entertainment](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/bao.png)
-
-  Combo Indicators: Fighting games feature these. Also, enemies often have indicators above their heads when attacking
-  or alerted.
+<table>
+<tr><td>Image</td><td>Description</td></tr>
+<tr>
+<td><control>Color Indicators:</control> These signal different scenarios, with red indicating immediate attention and green representing player health.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/mc.png" alt="Mobs turn red when hit in Minecraft" /></td>
+</tr>
+<tr>
+<td><control>Subtitles:</control> In text-based games, these are color-coded by character, with certain words animated to convey emotion.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/kz.png" alt="Katana Zero released in 2019 by Devolver Digital" /></td>
+</tr>
+<tr>
+<td><control>Combo Indicators:</control> Fighting games feature these. Also, enemies often have indicators above their heads when attacking or alerted.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/bao.png" alt="Batman: Arkham Origin released in 2013 byWarner Bros. Interactive Entertainment" /></td>
+</tr>
+</table>
 
 ### Exercise: User Experience (UX)
 
-Study the following UX examples:
+Study the following UX examples in the table below:
 
-* **Rise of the Tomb Raider. Square Enix, 2015.**
-    * The game immerses the player in the environment as they level up their skills.
-
-      ![screenshot](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/tr.png)
-* **Dead Space. Electronic Arts, 2008.**
-    * This horror action game does not pause when players access their inventory. The game also displays their health on
-      the character's back.
-
-      ![screenshot](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/ds.png)
-* **Fortnite. Epic Games, 2017.**
-    * The game uses several usability heuristics, including minimum workload, by consistently displaying each gun's ammo
-      type and the player's resource count.
-
-      ![screenshot](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/fn.png)
-* **Metal Gear Solid: Peace Walker. Konami, 2010.**
-    * When an enemy detects the player, the game displays an exclamation mark above the enemy and plays a warning sound.
-
-      ![screenshot](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/mgs.png)
-* **Overwatch. Blizzard Entertainment, 2016.**
-    * The game displays the round status, points, kill feed, and healing or damage vignette on the screen.
-
-      ![screenshot](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/ow.png)
+<table>
+<tr><td>Description</td><td>Image</td></tr>
+<tr>
+<td><control>Rise of the Tomb Raider. Square Enix, 2015.</control> The game immerses the player in the environment as they level up their skills.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/tr.png" alt="screenshot" /></td>
+</tr>
+<tr>
+<td><control>Dead Space. Electronic Arts, 2008.</control> This horror action game does not pause when players access their inventory. The game also displays their health on the character's back.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/ds.png" alt="screenshot" /></td>
+</tr>
+<tr>
+<td><control>Fortnite. Epic Games, 2017.</control> The game uses several usability heuristics, including minimum workload, by consistently displaying each gun's ammo type and the player's resource count.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/fn.png" alt="screenshot" /></td>
+</tr>
+<tr>
+<td><control>Metal Gear Solid: Peace Walker. Konami, 2010.</control> When an enemy detects the player, the game displays an exclamation mark above the enemy and plays a warning sound.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/mgs.png" alt="screenshot" /></td>
+</tr>
+<tr>
+<td><control>Overwatch. Blizzard Entertainment, 2016.</control> The game displays the round status, points, kill feed, and healing or damage vignette on the screen.</td>
+<td><img src="https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ux/assets/ow.png" alt="screenshot" /></td>
+</tr>
+</table>
 
 ## User Interface (UI)
 
 User interface (UI)
 : bridges human-computer interaction
-: includes car dashboards and website pages wherein the best ones are those users do not notice.
 
 While UX refers to what the user takes away from the whole experience, UI refers to all elements enabling the user to
-interact with the product.
+interact with the product. It includes car dashboards and website pages wherein the best ones are those users do not
+notice.
 
 Heads-up display (HUD)
 : a common game UI element showing relevant info, such as health, magic, ammo, weapon, mini-map, and compass.
@@ -256,13 +285,13 @@ Customization
 
 You can provide flexibility by adding the following options:
 
-* Game Settings: Allow players to adjust settings like resolution, language, and sound levels, and edit UI colors and
-  HUD transparency.
-* Gameplay Tweaks: Let players customize characters and weapons, change playstyles at any time, and adjust AI behavior
-  by modifying difficulty levels.
-* Quality of Life: Improve the gaming experience by adding features like weapon loadouts, fast travel, skippable
+* **Game Settings:** Allow players to adjust settings like resolution, language, and sound levels, and edit UI colors
+  and HUD transparency.
+* **Gameplay Tweaks:** Let players customize characters and weapons, change playstyles at any time, and adjust AI
+  behavior by modifying difficulty levels.
+* **Quality of Life:** Improve the gaming experience by adding features like weapon loadouts, fast travel, skippable
   cutscenes, and quick restarts.
-* Accessibility: Allow players with disabilities to customize the UI and game controls for maximum comfort.
+* **Accessibility:** Allow players with disabilities to customize the UI and game controls for maximum comfort.
 
 Allowing users to play however they want can be both good and bad. Too many options can overwhelm players, especially
 newcomers, and gameplay-affecting customization can disrupt balance in multiplayer games. Always ensure added
@@ -287,16 +316,17 @@ race. Also, note the configurable options for accessibility, HUD, and language s
 
 You have learned the following:
 
-* Gameplay: It consists of game mechanics and defines what players take away from their gaming experience.
-* Game Mechanics: These are the rules that guide player actions and the game's responses.
-* AI in Games: This enhances interactivity and immersion, enabling functions like pathfinding and NPC behaviors.
-* Advanced AI use: As the future of gaming, with unexplored capabilities, it can make games smarter and more realistic
-  while saving time and money.
-* UX and UI: UX encompasses all aspects of user-game interaction, while UI includes the elements that facilitate that
-  interaction.
-* Usability Heuristics: Following usability heuristics and guidelines, such as Diegesis theory, helps us design
+* **Gameplay:** It consists of game mechanics and defines what players take away from their gaming experience.
+* **Game Mechanics:** These are the rules that guide player actions and the game's responses.
+* **AI in Games:** This enhances interactivity and immersion, enabling functions like pathfinding and NPC behaviors.
+* **Advanced AI use:** As the future of gaming, with unexplored capabilities, it can make games smarter and more
+  realistic while saving time and money.
+* **UX and UI:** UX encompasses all aspects of user-game interaction, while UI includes the elements that facilitate
+  that interaction.
+* **Usability Heuristics:** Following usability heuristics and guidelines, such as Diegesis theory, helps us design
   effective UX and UI, increasing player engagement.
-* Customization: Allowing players to customize their gaming experience is not essential but adds value to video games.
+* **Customization:** Allowing players to customize their gaming experience is not essential but adds value to video
+  games.
 
 ### Challenge
 
