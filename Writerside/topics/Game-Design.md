@@ -11,7 +11,7 @@ Video game ideas can come from personal experiences or existing games to which y
 The chess grandmaster Robert "Bobby" Fischer proposed a variant of chess called "Chess 960," which sought to reduce
 memorizing of starting moves by randomizing the locations of the pieces.
 
-## Game Type
+## Game Type 🪜
 
 To start, consider the type of your game before defining its rules or sketching its art. Most games classify as one of
 the following:
@@ -24,7 +24,7 @@ the following:
 * **Strategy:** It consists of a slower and sometimes turn-based gameplay requiring lots of thinking.
 * **Action/adventure:** The player solves quests or missions in a high-paced environment.
 
-## Player Experience
+## Player Experience 😀
 
 In game design, consider a user experience where the player enjoys playing. Consider the following to do so.
 
@@ -34,7 +34,7 @@ In game design, consider a user experience where the player enjoys playing. Cons
    too much to continue.
 3. **Preference**: Consider the demographic of your game, including the age, culture, and preferences of the player.
 
-## Game Objectives
+## Game Objectives 🎯
 
 Make the end goal to be accomplished by the player. Most goals and sub-goals include the following:
 
@@ -56,7 +56,7 @@ complete your Pokédex by catching and collecting Pokémon.
 In Codey's Adventure, do you recognize the main objective? Is it only one? Are there sub-objectives? If so, are they
 necessary to win the game or do they just expand the gameplay experience?
 
-## Game Mechanics
+## Game Mechanics 🗺️
 
 Game mechanics
 : refer to how the player controls the game and the rules regarding player movement, environment allowances, and general
@@ -96,7 +96,7 @@ satisfying:
   actions.
 * Use "**Codey Move Speed**" to change how fast Codey moves, which affects both the game actions and skills.
 
-## Game Story
+## Game Story 📖
 
 With certain game types, you may have to create a storyline to help players connect with your game more. Meanwhile, the
 mobile game Flappy Bird may only require the player to avoid a series of pipes.
@@ -129,19 +129,19 @@ Game platform
 
 Consider the platform on which the user plays your game depending on your needs:
 
-### Personal computer (PC)
+### Personal computer (PC) 🖥️
 
 * It can include the latest hardware to play resource-intensive games.
 * While there exists an industry that configures computers for gameplay, not all computers can play all games, such as
   those containing older hardware configurations.
 
-### Console
+### Console 🕹️
 
 * While porting a game to a console allows you to take advantage of its powerful hardware (e.g., Nintendo Switch,
   PlayStation 5, Xbox), you must use the relevant developer tools for each console, which can be difficult for
   independent game designers.
 
-### Mobile
+### Mobile 📱
 
 * Porting to a mobile platform allows you to reach more people who can play your game on the go or at home. However,
   since phone hardware is weaker than computers or gaming consoles, consider how much it can limit your ability to
@@ -214,10 +214,10 @@ Game controls
 Consider the most appropriate player controls depending on your needs. Most video game input types include the
 following:
 
-* **game controller** (e.g., gamepad or joystick)
-* **keyboard and mouse**
-* **touchscreen**
-* **real-world interface** (e.g., steering wheel)
+* **game controller** 🎮 (e.g., gamepad or joystick)
+* **keyboard and mouse** ⌨️🖱️
+* **touchscreen** 📱
+* **real-world interface** 🎲 (e.g., steering wheel)
 
 Consider the characteristics of each input type:
 

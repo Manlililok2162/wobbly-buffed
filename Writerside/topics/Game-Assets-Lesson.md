@@ -37,7 +37,7 @@ Study the following character assets from popular video games:
 </tr>
 </table>
 
-## History of Game Assets
+## History of Game Assets 📜
 
 Assets play a crucial role in video games by shaping the game's look and feel and keeping players engaged in the
 storyline and gameplay.
@@ -70,7 +70,7 @@ Study the difference between the old and newer Lara Croft character.
 </tr>
 </table>
 
-## Asset Conceptualizing and Modeling
+## Asset Conceptualizing and Modeling 📝
 
 To bring a video game to life, designers must model and refine the character and object designs. The process of
 preparing a game asset for incorporation involves the following steps:
@@ -84,7 +84,7 @@ preparing a game asset for incorporation involves the following steps:
 <step><control>Lighting:</control> Adding lighting enhances depth perception and can involve shadowing or directed lights to illuminate the scene.</step>
 </procedure>
 
-## Creating Character Assets
+## Creating Character Assets 🖌️🎨
 
 After the artist designs the characters, we sketch their silhouettes, which is crucial in the character conception
 process, conveying key features such as:
@@ -103,7 +103,7 @@ supports the storyline of a game.
 
 ![Horizon Zero Dawn. Guerilla Games, 2017](https://static-assets.codecademy.com/Courses/intro-to-game-dev/assets/character/hzd.png)
 
-## Creating Environment Assets
+## Creating Environment Assets 🖼️
 
 Game level
 : the space or environment where the player performs actions to achieve a goal.
@@ -137,7 +137,7 @@ In Codey's Adventure, use the following controls to customize the look of the ga
 * The "**Platform Material**" dropdown lets you change the platform's texture.
 * The "**Floor Material**" dropdown lets you change the floor's texture.
 
-## Creating Sound Effect Assets
+## Creating Sound Effect Assets 🔊
 
 Sound effects are essential in video games, enhancing player engagement and evoking specific moods based on the scene.
 They may serve the following purposes:
@@ -157,7 +157,7 @@ Types of sound effects in a game include:
 * **Foley sound effects:** Sounds that match in-game actions, like a "thump" when a player bumps into a table or glass
   breaking when entering through a window.
 
-## Creating Musical Composition Assets
+## Creating Musical Composition Assets 🎶
 
 Thematic and incidental music is crucial in video games, evoking a wide range of emotions as players navigate the
 storyline. Music also establishes the timeline and foreshadows upcoming events.

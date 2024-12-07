@@ -2,14 +2,14 @@
 
 Learn game development tool job roles.
 
-## Level Designer
+## Level Designer 🖼️
 
 They use game engines to create dynamic and immersive levels, challenges, and missions. They research gameplay
 specifications and implement details—actions, events, objects, and environments—into the game. To keep players focused
 and engaged, they envision themselves in the player's position and map out all possibilities, considering logic, action
 sequences, and conditions for triggering events.
 
-## Tools Engineer
+## Tools Engineer 🛠️
 
 They enhance the workflow of game developers by providing optimal tools. They modify or create tools to support game
 development, collaborating with programmers, artists, and designers to determine needs, explain tool usage, and assess
@@ -22,7 +22,7 @@ Custom tools developed by Tools Engineers streamline various tasks, such as:
 
 The work of a Tools Engineer varies daily based on the changing needs of game developers.
 
-## Engine Programmer
+## Engine Programmer ⚙️
 
 When existing game engines fall short of the development team's vision, Engine Programmers build a customized base
 engine. They repurpose popular game engines, adding new features and rewriting existing functionality to enhance

@@ -23,7 +23,7 @@ Study what you think the developers of Red Dead Redemption 2 used to make the ga
 
 ![Red Dead Redemption 2. Rockstar Games (2018)](https://static-assets.codecademy.com/Courses/intro-to-game-dev/tools/intro/rdr2.png)
 
-## Programming Languages
+## Programming Languages 📝
 
 ### C++ {id="c_1"}
 
@@ -134,7 +134,7 @@ Game engines provide a foundation for developers to build upon, significantly re
 Developers can use these tools to focus their time, energy, and resources on game mechanics and storytelling instead of
 coding physics or managing memory. Some engines even allow for easy porting of games between platforms.
 
-## Game Engines
+## Game Engines ⚙️
 
 ### Unity
 
@@ -185,7 +185,7 @@ Review and compare the game engines mentioned in the table below:
 
 ![Game engine comparison table](https://static-assets.codecademy.com/Courses/intro-to-game-dev/tools/game-engines/engine-chart.png)
 
-## Game Engines for the Web
+## Game Engines for the Web 🌐
 
 ### HTML5
 
@@ -227,7 +227,7 @@ Review and compare the web engines mentioned in the table below:
 
 ![Web engine comparison table](https://static-assets.codecademy.com/Courses/intro-to-game-dev/tools/web-engines/web-engine-chart.png)
 
-## Asset Tools
+## Asset Tools 🖌️🎨
 
 ### Blender
 
@@ -286,7 +286,7 @@ Review the asset tools covered in the table below:
 </tr>
 </table>
 
-## Distributing and Publishing
+## Distributing and Publishing 🖥️
 
 ### PC
 

@@ -21,7 +21,7 @@ This lesson discusses the following important aspects of a video game:
 
 Study the screenshot above and identify the existing video game development components.
 
-## Gameplay
+## Gameplay 🫂
 
 Gameplay
 : encompasses the entire gameplay experience including:
@@ -95,7 +95,7 @@ Study the different game types in the table below:
 </tr>
 </table>
 
-## Mechanics
+## Mechanics 🗺️
 
 Mechanics
 : how the game works for its players
@@ -127,7 +127,7 @@ Study the battle scene from Final Fantasy VII following the number markers:
 3. Energy points: health points, mana points, limit, and time.
 4. Visual reference of all controllable player characters.
 
-## Artificial Intelligence (AI)
+## Artificial Intelligence (AI) 🤖
 
 AI encompasses self-driving cars, recommendation systems, voice assistants.
 
@@ -167,7 +167,7 @@ In Codey's Adventure, change the enemy behavior using the following controls:
 * The "**Enemy Idle Behavior**" dropdown selects what the enemies do when they have not detected Codey.
 * The "**Enemy Sense Behavior**" dropdown selects what the enemies do when they have detected Codey.
 
-## User Experience (UX)
+## User Experience (UX) ♿
 
 User experience (UX)
 : refers to everything with how a user interacts with a product.
@@ -234,7 +234,7 @@ Study the following UX examples in the table below:
 </tr>
 </table>
 
-## User Interface (UI)
+## User Interface (UI) 🪧
 
 User interface (UI)
 : bridges human-computer interaction
@@ -280,7 +280,7 @@ Study the marked areas in this screenshot of Apex Legends:
 
 ![Apex Legends screenshot](https://static-assets.codecademy.com/Courses/intro-to-game-dev/gameplay/ui/al.png)
 
-## Flexibility
+## Flexibility ⚙️️
 
 Customization
 : gives players freedom to choose how they want to play.
